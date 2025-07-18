@@ -1,4 +1,4 @@
-#  Recursos Web para Infraestructura de Datos Espaciales (IDE) - UC
+#  Recursos Web para Infraestructura de Datos Espaciales
 
 Este repositorio contiene recursos gráficos, plantillas HTML y componentes CSS diseñados para apoyar el desarrollo de visores web, portales institucionales y plataformas temáticas utilizando **ArcGIS Hub** como infraestructura base.
 
